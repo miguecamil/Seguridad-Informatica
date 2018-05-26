@@ -7,7 +7,17 @@
 
 <body>
 	<h1>Curso Seguridad Informatica</h1>
-	
+
+	<nav>
+  		<ul>
+    	<li><a href="Introducción y Conceptos Básicos de la Seguridad Informática.html">Introducción y Conceptos Básicos de la Seguridad Informática</a></li>
+    	<li><a href="Seguridad informática – Conociendo Procedimientos Básicos de Seguridad.html">Seguridad informática – Conociendo Procedimientos Básicos de Seguridad</a></li>
+    	<li><a href="Vulnerabilidades y Políticas de Seguridad.html">Vulnerabilidades y Políticas de Seguridad</a></li>
+    	<li><a href="Amenazas a la seguridad de la información.html">Amenazas a la seguridad de la información</a></li>
+  		</ul>
+  		</ul>
+	</nav>
+
  	<h2>Introducción y Conceptos Básicos de la Seguridad Informática
  	</h2>
 
@@ -29,7 +39,6 @@
  		
  	</section>	
  	
-
 
  	
 	<script src="js/jquery-3.3.1.js"></script> 
